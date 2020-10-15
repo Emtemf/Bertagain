@@ -2,8 +2,11 @@
 用了bert-utils观察效果
 # 说明：
 Chinese那个就是放训练好的谷歌模型
+
 args是一些文件夹位置的选择和GPU使用率
+
 modeling是整体网络搭建
+
 tokenization就是分词之类的预处理
 
 运行 similarity即可
